@@ -1,2 +1,3 @@
-# Imageomics-NeruIPS-2025
-Imageomics: Discovering Biological Knowledge from Images Using AI workshop at NeurIPS 2025
+# Knowledge-guided GenAI Workshop @ ICML 2026
+
+Workshop on Incorporating Scientific Knowledge in Generative AI at ICML 2026 (Tentative)
