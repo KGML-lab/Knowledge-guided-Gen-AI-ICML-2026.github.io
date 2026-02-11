@@ -1,9 +1,9 @@
 :root {
-  --primary: #004321;
+  --primary: #7A232E;
   --secondary: #efefef;
   --dark: #222;
   --light: #fff;
-  --href: #27ae60;
+  --href: #7A232E;
   --max-width: 960px;
 }
 * {
