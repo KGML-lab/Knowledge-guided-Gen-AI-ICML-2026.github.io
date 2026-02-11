@@ -129,7 +129,7 @@ section ul {
 
 .org-card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 200px));
   gap: 1rem;
   margin-top: 2rem;
 }
@@ -139,6 +139,7 @@ section ul {
   overflow: hidden;
   text-align: center;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  max-width: 200px;
 }
 .org-card img {
   width: 100%;
